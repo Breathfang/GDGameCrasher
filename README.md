@@ -10,7 +10,9 @@ This is a main repository to Crash Geometry Dash within the level way. This repo
 > 
 > ### BIG DISCLAIMER:
 > 
-> This level is DESIGNED to CRASH Geometry Dash intentionally. You should save your progress before you play this level. I will not responsible any damage and data loss because of this
+> This level is DESIGNED to CRASH Geometry Dash intentionally. You should save your progress before you play this level. I will not responsible for any damage caused to your computer, game or save files.
+> (Most likely, nothing will happen, but I have to say this anyway)
+
 ### Pre Requirements
 Here is some pre-requirements before you can follow the next step:
 - [Geode](https://geode-sdk.org/) (Required for installing GDShare to import .gmd any levels)
